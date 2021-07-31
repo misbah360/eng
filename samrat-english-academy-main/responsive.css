@@ -1,0 +1,82 @@
+@media(max-width: 768px){
+
+    header#header {
+        min-width: 333%;
+    }
+
+    section#home {
+      background: linear-gradient(319deg, rgba(236, 249, 248, 0.75) 24%, rgba(255, 255, 255, 0) 66%) center center / cover no-repeat, url("images/header-background-pattern-scaled.jpg") rgba(255, 255, 255, 0);
+      height: 700px;
+      border-width: 0px;
+      border-color: rgb(226, 226, 226);
+      border-style: solid;
+      min-width: 333%;
+    }
+
+    section#aboutSEA {
+        min-width: 333%;
+    }
+
+    .instCarousel {
+        margin: auto;
+        width: fit-content;
+        padding-bottom: 50px;
+    }
+
+    .instMeta p {
+        width: 90%;
+        margin: auto;
+    }
+    
+
+    .instCarousel {
+        margin: auto;
+        width: fit-content;
+        padding-bottom: 50px;
+    }
+    
+    .founderImg {
+        width: 425px;
+        float: none;
+        margin: auto;
+    }
+    
+    .founderMeta {
+        /* margin: auto; */
+        padding-top: 70px;
+        left: 20%;
+        position: relative;
+    }
+
+    section#photoGallary {
+        min-width: 333%;
+    }
+    
+    section#developer {
+        min-width: 333%;
+    }
+    footer#footer {
+        min-width: 333%;
+    }
+
+    .footerImmgs {
+        width: 350px;
+        float: none;
+        margin: auto;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .footerLinks {
+        float: none;
+        margin-top: 20px;
+    }
+
+
+
+
+  }
+
+
+  
+
